@@ -10,7 +10,8 @@ Solar-Induced Fluorescence (SIF) from 2001-2023.
 ## Data
 Raw satellite data are publicly available (see sources below) and were preprocessed
 into .npy arrays prior to analysis. Preprocessed arrays are not included due to file
-size constraints. Preprocessing code is available upon request.
+size constraints. Preprocessing code is available upon request. Recovery time analysis 
+can be run using recovery_trajectories folder. 
 
 ## Data Sources
 - Burned Area: MODIS MCD64A1 - NASA LP DAAC
