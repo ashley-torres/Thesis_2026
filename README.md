@@ -23,3 +23,6 @@ can be run using recovery_trajectories folder.
 
 ## Requirements
 pip install -r requirements.txt
+
+## Supplemental Materials
+Supplemental figures are available in Torres_Thesis_Supplemental.pdf
